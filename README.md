@@ -1,4 +1,4 @@
-# guiguinoroeste-Atividade_Pratica_ModBancoDeDados
+#Atividade_Pratica_ModBancoDeDados
 Querido Professor Gleison Brito, por favor verifique meus repositórios, e depois
 da análise deixe um comentário por favor.
 
